@@ -1,4 +1,4 @@
 # Portfolio
 ### One of my first websites, created with HTML, SCSS & JS.
 
-### https://piotrwrzodak.pl/
+### https://piotrwrzodak.github.io/portfolio/
